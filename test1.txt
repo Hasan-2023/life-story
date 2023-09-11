@@ -1,7 +1,7 @@
-I born in 1998. 
+I born in 1998
 I have done my SSC in 2013 
 I have completed 
 I have completed my becholors
 I will be  the best programmer. 
 logo alignment is centered. 
-This text is added from main branch 
+new line is added in feature branch 
