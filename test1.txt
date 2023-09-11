@@ -3,3 +3,4 @@ I have done my SSC in 2013
 I have completed 
 I have completed my becholors
 I will be  the best programmer. 
+logo alignment is centered. 
